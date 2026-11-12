@@ -1,0 +1,17 @@
+{
+  "hash": "03f2f759355a9464f7cc09b15611620c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: gis-final-project\nauthors:\n  - name: Norah Jones\n    affiliation: The University\n    roles: writing\n    corresponding: true\nbibliography: GIS_Manuscript.bib\n---\n\n## Section\nThis is a simple placeholder for the manuscript's main document [@knuth84].\n\n## New Even Better Section\n\nLook at this great new content in this section here!\n\n\n::: {.cell}\n\n```{.r .cell-code .hidden}\nwriteLines(\"Hello!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\nHello!\n```\n\n\n:::\n:::\n\n\nAfrican development stans check @miguel_worms_2004 out!!!!\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

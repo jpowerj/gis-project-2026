@@ -1,0 +1,24 @@
+---
+title: gis-final-project
+authors:
+  - name: Norah Jones
+    affiliation: The University
+    roles: writing
+    corresponding: true
+bibliography: GIS_Manuscript.bib
+---
+
+## Section
+This is a simple placeholder for the manuscript's main document [@knuth84].
+
+## New Even Better Section
+
+Look at this great new content in this section here!
+
+```{r}
+writeLines("Hello!")
+
+```
+
+African development stans check @miguel_worms_2004 out!!!!
+
